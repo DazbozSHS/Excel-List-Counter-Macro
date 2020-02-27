@@ -11,7 +11,8 @@ apple   2
 orange  1
 
 # RESTRICTIONS:
-The macro uses relative references, but the list must be in ROW A (any collumn), with the top header cell selected.
+- List must have a header
+- The macro uses relative references, but the list header cell must be in ROW A (any column), with the top header cell selected.
 
 # HOW TO USE:
-Import to Excel VBA, activate with CTRL+SHIT+C
+Import to Excel VBA, activate with CTRL+SHIT+C then header cell is selected
